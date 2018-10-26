@@ -1,1 +1,1 @@
-# scala
+# distributed db with scala
